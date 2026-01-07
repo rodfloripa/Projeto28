@@ -6,7 +6,7 @@ Eu pelo menos nào consegui após dias tentando...
 
 A LLM alucinou e só gerava 3 ou 4 notas por arquivo.
 
-A soluçào foi usar Cadeia de Markov, treinando a cadeia com 90 músicas no formato Midi.
+A solução foi usar Cadeia de Markov, treinando a cadeia com 90 músicas no formato Midi.
 
 Se a música gerada ficou boa ou nào é outra história...
 
