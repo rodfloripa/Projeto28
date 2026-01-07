@@ -93,7 +93,7 @@ def exportar_midi(texto_musical, nome_arquivo="markov_v2.mid"):
 
 # 1. Instanciar e Treinar
 markov_v2 = ModeloMarkovMusicalV2()
-markov_v2.treinar_do_arquivo("resultado_midi.txt")
+markov_v2.treinar_do_arquivo("treinar_midi.txt")
 
 # 2. Gerar Sequência (ex: 100 notas)
 musica_texto = markov_v2.gerar_musica(100)
