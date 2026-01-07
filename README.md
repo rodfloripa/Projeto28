@@ -10,4 +10,4 @@ A solução foi usar Cadeia de Markov, treinando a cadeia com 90 músicas no for
 
 Se a música gerada ficou boa ou nào é outra história...
 
-Use este ![site](https://pianotify.com/import-midi-file) para fazer upload do .midi e ouvir.
+Use este ![site](https://pianotify.com/import-midi-file) para fazer upload do .mid e ouvir.
