@@ -2,7 +2,7 @@
 
 Será que é possivel gerar música usando treinamento de LLM?
 
-Eu pelo menos nào consegui após dias tentando...
+Eu pelo menos não consegui após dias tentando...
 
 A LLM alucinou e só gerava 3 ou 4 notas por arquivo.
 
