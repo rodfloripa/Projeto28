@@ -12,4 +12,8 @@ Se a música gerada ficou boa ou não é outra história...
 
 Use este [site](https://pianotify.com/import-midi-file) para fazer upload do .mid e ouvir.
 
-![Treinamento](URL_da_imagem)
+![Treinamento](https://github.com/rodfloripa/Projeto28/blob/main/treinamento.png)
+
+<p align="center">
+  Treinamento
+</p>
