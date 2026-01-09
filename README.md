@@ -11,10 +11,10 @@
   
   O objetivo do projeto é aprender mais sobre Transformers e entender como aprende sequências.
   
-  O maior desafio foi diiminuir os número de tokens de 27 mil para 2 mil,já que com um número muito
+  O maior desafio foi diminuir os número de tokens de 27 mil para 2 mil,já que com um número muito
   alto não consegui convergência.
   
-  Use este [site](https://pianotify.com/import-midi-file) para fazer upload do .mid e ouvir.
+  
 </p>
 
 
