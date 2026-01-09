@@ -13,6 +13,9 @@
   
   O maior desafio foi diminuir os número de tokens de 27 mil para 2 mil,já que com um número muito
   alto não consegui convergência.
+
+  Usei um conjunto de dados muito variado,como música classica e pop. Talvez se tivesse utilizado
+  um estilo só teria uma música melhor.
   
   
 </p>
